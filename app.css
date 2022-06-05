@@ -1,0 +1,13 @@
+body{
+  color:purple
+}
+p {
+  border-width: 5px;
+  border-style:dashed;
+  border-color:rgb(127, 200, 212);
+  width:200px;
+  box-sizing: content-box;
+  padding: 10px;
+  margin:10px;
+  background-color: palegoldenrod;
+}
